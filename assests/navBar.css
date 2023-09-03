@@ -36,7 +36,7 @@ body{
 }
 .home{
   border-top: 2.5px solid rgb(5, 8, 173);
-  width: 90%;
+  width: 100%;
 }
 .text{
   color: rgba(21, 23, 190, 0.801);
