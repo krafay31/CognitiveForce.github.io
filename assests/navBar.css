@@ -1,5 +1,7 @@
 
-
+body{
+  overflow-x: hidden;
+}
   
   .category-btn {
     background-color: transparent;
